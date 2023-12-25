@@ -1,0 +1,17 @@
+.logo{
+  margin-top: auto;
+  padding-top: 20px;
+  margin-left: auto;
+  width: 90px;
+  height: 120px;
+  margin-top: 1.5rem;
+  align-content: center;
+}
+#inputBox{
+  width: 500px;
+  align-content: center;
+
+}
+.figure{
+  padding-left: 200px;
+}
